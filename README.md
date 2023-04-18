@@ -20,4 +20,5 @@ https://github.com/saddeveloper99/SBD-assignments/blob/firstweek/process.py
 
 #### 스레드
 https://github.com/saddeveloper99/SBD-assignments/blob/firstweek/thread.py
-<>
+
+</details>
