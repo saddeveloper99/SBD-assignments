@@ -1,6 +1,7 @@
 # NBC Sparta AI 5기 선발대 
+<details>
+<summary>1주차 </summary>
 
-## 1주차 
 
 > 타입별 메서드
 
@@ -19,3 +20,4 @@ https://github.com/saddeveloper99/SBD-assignments/blob/firstweek/process.py
 
 #### 스레드
 https://github.com/saddeveloper99/SBD-assignments/blob/firstweek/thread.py
+<>
