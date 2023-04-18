@@ -2,7 +2,7 @@
 <details>
 <summary> 1주차 </summary>
 
-## 1주차 강의 정리
+## 1주차 강의 정리(블로그)
 > [타입별 메서드](https://codemte.tistory.com/68)
 
 > [프로세스와 스레드](https://codemte.tistory.com/69)
