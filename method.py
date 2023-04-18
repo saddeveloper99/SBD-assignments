@@ -107,8 +107,15 @@ print(fruit_dict.items()) # dict_items([('apple', 1), ('banana', 2), ('durian', 
 
 # 4. get
 friut = fruit_dict.get("apple")
-print(friut) # 1
+friut2 = fruit_dict.get("efafegaeh")
 
+print(friut) # 1
+print(friut2) # None
+try:
+    friut3 = fruit_dict["efafegaeh"] # 해당 Key가 없으므로 KeyError
+    print(friut3)
+except KeyError:
+    print("해당하는 key가 없습니다.")
 # 5. in
 if "apple" in fruit_dict: 
     print("애플이다") # "apple"이 fruit_dict의 key중에 있으므로 "애플이다" 반환
