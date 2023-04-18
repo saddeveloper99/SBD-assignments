@@ -7,7 +7,7 @@
 
 > [프로세스와 스레드](https://codemte.tistory.com/69)
 
-## 1주차 실습
+## 1주차 실습 과제
 > [firstweek branch](https://github.com/saddeveloper99/SBD-assignments/tree/firstweek)
 
 </details>
