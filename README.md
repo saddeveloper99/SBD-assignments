@@ -11,3 +11,17 @@
 > [firstweek branch](https://github.com/saddeveloper99/SBD-assignments/tree/firstweek)
 
 </details>
+
+
+<details>
+<summary> 2주차 </summary>
+
+## 2주차 강의 정리(블로그)
+> [코루틴]()
+
+> [asyncio]()
+
+## 2주차 실습 과제
+> [secondweek branch](https://github.com/saddeveloper99/SBD-assignments/tree/secondweek)
+
+</details>
