@@ -21,6 +21,8 @@
 
 > [asyncio]()
 
+> [패키지 의존성 관리](https://codemte.tistory.com/87)
+
 ## 2주차 실습 과제
 > [secondweek branch](https://github.com/saddeveloper99/SBD-assignments/tree/secondweek)
 
