@@ -27,3 +27,16 @@
 > [secondweek branch](https://github.com/saddeveloper99/SBD-assignments/tree/secondweek)
 
 </details>
+
+<details>
+<summary> 3주차 </summary>
+
+## 3주차 강의 정리(블로그)
+> [재귀함수]()
+
+> [클래스 심화]()
+
+## 2주차 실습 과제
+> [thirdweek branch](https://github.com/saddeveloper99/SBD-assignments/tree/thirdweek)
+
+</details>
